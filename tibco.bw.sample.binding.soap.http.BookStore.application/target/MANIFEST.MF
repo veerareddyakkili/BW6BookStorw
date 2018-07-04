@@ -3,7 +3,7 @@ TIBCO-BW-Application: META-INF/TIBCO.xml
 Bundle-SymbolicName: tibco.bw.sample.binding.soap.http.BookStore.appli
  cation
 Bundle-Name: Tibco Bw Sample Binding Soap Http BookStore Application
-Bundle-Version: 1.0.0.201807022235
+Bundle-Version: 1.0.0.201806282332
 Bundle-ManifestVersion: 2
 Bundle-Vendor: TIBCO Software Inc.
 TIBCO-BW-ConfigProfile: META-INF/WindowsProfile.substvar

@@ -1,4 +1,4 @@
-Manifest-Version: 1.0.0.201807022235
+Manifest-Version: 1.0.0.201806282332
 Bundle-SymbolicName: tibco.bw.sample.binding.soap.http.BookStore
 Bundle-ManifestVersion: 2
 Bundle-Vendor: TIBCO Software Inc.
@@ -11,7 +11,7 @@ Require-Capability: com.tibco.bw.model; filter:="(name=bwext)",com.tib
 TIBCO-BW-ConfigProfile: META-INF/default.substvar
 TIBCO-BW-Version: 1.2.0 V18 2014-09-27
 Bundle-Name: Tibco Bw Sample Binding Soap Http BookStore Module
-Bundle-Version: 1.0.0.201807022235
+Bundle-Version: 1.0.0.201806282332
 Bundle-ClassPath: .
 TIBCO-BW-ApplicationModule: META-INF/module.bwm
 TIBCO-BW-JobSharedVariables: META-INF/module.jsv

@@ -10,6 +10,4 @@
     <module>..\tibco.bw.sample.binding.soap.http.BookStore</module>
     <module>..\tibco.bw.sample.binding.soap.http.BookStore.application</module>
   </modules>
-  
-  
 </project>

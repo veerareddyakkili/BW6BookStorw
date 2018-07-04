@@ -29,14 +29,4 @@
       </plugin>
     </plugins>
   </build>
-  
-  <repositories>
-		<repository>
-			<id>com.tibco.plugins</id>
-			<url>http://localhost:8081/artifactory/webapp/#/artifacts/browse/tree/General/plugins-release-local</url>
-			<snapshots>
-				<enabled>false</enabled>
-			</snapshots>
-		</repository>
-	</repositories>
 </project>
